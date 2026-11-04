@@ -10,7 +10,7 @@ public class SpaceCraft {
     int burnRate;
     
     public void init(){
-    	altitude = 1000;
+    	altitude = 2000;
         fuel = 500;
         velocity = 70;
         time = 0;
